@@ -1,0 +1,536 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 177,
+      "max": [
+        1.239590048789978,
+        2.568120002746582,
+        2.0051200389862061
+      ],
+      "min": [
+        -2.168720006942749,
+        -5.9334797859191895,
+        -4.4013500213623047
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2124,
+      "componentType": 5126,
+      "count": 177,
+      "max": [
+        0.96213459968566895,
+        0.94608205556869507,
+        0.99394798278808594
+      ],
+      "min": [
+        -0.98837178945541382,
+        -0.96978086233139038,
+        -0.92987346649169922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 177,
+      "max": [
+        0.89949715137481689,
+        0.60792529582977295,
+        0.88511174917221069,
+        1
+      ],
+      "min": [
+        -0.64060360193252563,
+        -0.67863351106643677,
+        -0.91476327180862427,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 177,
+      "max": [
+        0.12745000422000885,
+        0.61492997407913208
+      ],
+      "min": [
+        0.050289999693632126,
+        0.031360000371932983
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 177,
+      "max": [
+        176
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4248,
+      "componentType": 5126,
+      "count": 7351,
+      "max": [
+        1.0747799873352051,
+        0.70437997579574585,
+        1.4414499998092651
+      ],
+      "min": [
+        -0.48963001370429993,
+        -0.72778999805450439,
+        -0.038970001041889191
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 92460,
+      "componentType": 5126,
+      "count": 7351,
+      "max": [
+        0.99968641996383667,
+        0.9998096227645874,
+        0.99976366758346558
+      ],
+      "min": [
+        -0.99984580278396606,
+        -0.99977880716323853,
+        -0.99962204694747925
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2832,
+      "componentType": 5126,
+      "count": 7351,
+      "max": [
+        0.99999862909317017,
+        0.99996834993362427,
+        0.91401195526123047,
+        1
+      ],
+      "min": [
+        -0.99995428323745728,
+        -0.99996942281723022,
+        -0.91995406150817871,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1416,
+      "componentType": 5126,
+      "count": 7351,
+      "max": [
+        0.89175999164581299,
+        0.99317002296447754
+      ],
+      "min": [
+        0.021709999069571495,
+        0.14406999945640564
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 708,
+      "componentType": 5125,
+      "count": 7353,
+      "max": [
+        7350
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 180672,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        1.9162700176239014,
+        1.3067799806594849,
+        2.6398200988769531
+      ],
+      "min": [
+        -1.3131500482559204,
+        -1.7272000312805176,
+        -0.24222999811172485
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 187092,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        0.8854939341545105,
+        0.85548990964889526,
+        1
+      ],
+      "min": [
+        -0.92678040266036987,
+        -1,
+        -0.76699072122573853
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 120448,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        1,
+        0.98178970813751221,
+        0.0051515344530344009,
+        1
+      ],
+      "min": [
+        -0.32325521111488342,
+        -0.94543164968490601,
+        -0.0070363818667829037,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60224,
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        0.13665999472141266,
+        0.6431499719619751
+      ],
+      "min": [
+        0.10683999955654144,
+        0.45032998919487
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 30120,
+      "componentType": 5125,
+      "count": 828,
+      "max": [
+        534
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Fabian Orrego (https://sketchfab.com/fabian_orrego)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/dragon-hunter-warrior-103da5b0997149a4a81d00463ffa8c56",
+      "title": "Dragon Hunter Warrior"
+    },
+    "generator": "Sketchfab-5.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 33432,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64504,
+      "byteOffset": 33432,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 193512,
+      "byteOffset": 97936,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 129008,
+      "byteOffset": 291448,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 420456,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/LeaderWarrior_0_diffuse.png"
+    },
+    {
+      "uri": "textures/LeaderWarrior_0_emissive.png"
+    },
+    {
+      "uri": "textures/TranslucencyMaterial_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 1,
+        "texCoord": 0
+      },
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "LeaderWarrior_0"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 1,
+        "texCoord": 0
+      },
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            0.75438262199999995
+          ],
+          "diffuseTexture": {
+            "index": 2,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "TranslucencyMaterial"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "DragonKillerSword_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "LeaderWarrior_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "MagicSpell_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.063900000000000012,
+        -0.059590000000000011,
+        -0.079580000000000012,
+        0,
+        0.099170000000000036,
+        0.031580000000000004,
+        0.055980000000000002,
+        0,
+        -0.0069600000000000026,
+        -0.097050000000000025,
+        0.067080000000000015,
+        0,
+        -0.14669000000000001,
+        0.69324000000000019,
+        1.0529899999999999,
+        1
+      ],
+      "name": "DragonKillerSword"
+    },
+    {
+      "mesh": 0,
+      "name": "DragonKillerSword_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "LeaderWarrior"
+    },
+    {
+      "mesh": 1,
+      "name": "LeaderWarrior_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "MagicSpell"
+    },
+    {
+      "mesh": 2,
+      "name": "MagicSpell_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
