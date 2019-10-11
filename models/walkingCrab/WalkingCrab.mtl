@@ -1,0 +1,41 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__24 (3) to come 
+#
+newmtl 02_-_Default
+Ka  0.7 0.0 0.0
+Kd  0.7 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+bump LoamWalls0012_S.jpg
+#
+newmtl 03_-_Default
+Ka  0.9 0.7 0.5
+Kd  0.9 0.7 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+bump loamwalls0012_s.jpg
+#
+newmtl 07_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.9
+illum 2
+#
+# Multi/Sub Material__24 done 
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# EOF
